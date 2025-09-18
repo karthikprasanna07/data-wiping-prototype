@@ -1,0 +1,18 @@
+{
+  "certificate_id": "e5d26919-3874-45c8-8cd7-04aa860addf2",
+  "timestamp": "2025-09-12 20:47:35",
+  "devices": {
+    "id": "dev2",
+    "name": "Disk 1",
+    "model": "Seagate Barracuda",
+    "serialNumber": "SN98765XYZ",
+    "sizeGB": 1024,
+    "type": "HDD",
+    "interface": "SATA",
+    "status": "Connected"
+  },
+  "method": "Secure Purge",
+  "status": "Wipe Completed Successfully",
+  "signature": "WipeX-Demo-Signature",
+  "verify_url": "https://wipex-verify.com/certificate/e5d26919-3874-45c8-8cd7-04aa860addf2"
+}

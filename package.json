@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -46,4 +47,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "dependencies": {
+    "framer-motion": "^12.23.12"
+  }
+>>>>>>> 15fe98afe125060e20d84fd54edddab4fa3fe9c9
 }

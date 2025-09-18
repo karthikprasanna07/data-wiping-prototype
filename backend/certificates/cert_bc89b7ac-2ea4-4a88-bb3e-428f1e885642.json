@@ -1,0 +1,12 @@
+{
+  "certificate_id": "bc89b7ac-2ea4-4a88-bb3e-428f1e885642",
+  "timestamp": "2025-09-12 17:48:19",
+  "devices": {
+    "id": 1,
+    "name": "Disk 0 - 500GB SSD"
+  },
+  "method": "Secure Purge",
+  "status": "Wipe Completed Successfully",
+  "signature": "WipeX-Demo-Signature",
+  "verify_url": "https://wipex-verify.com/certificate/bc89b7ac-2ea4-4a88-bb3e-428f1e885642"
+}

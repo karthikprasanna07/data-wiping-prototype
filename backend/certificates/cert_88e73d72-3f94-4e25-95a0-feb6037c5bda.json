@@ -1,0 +1,18 @@
+{
+  "certificate_id": "88e73d72-3f94-4e25-95a0-feb6037c5bda",
+  "timestamp": "2025-09-12 20:48:01",
+  "devices": {
+    "id": "dev1",
+    "name": "Disk 0",
+    "model": "Samsung 870 EVO",
+    "serialNumber": "SN12345ABC",
+    "sizeGB": 500,
+    "type": "SSD",
+    "interface": "SATA",
+    "status": "Connected"
+  },
+  "method": "Secure Purge",
+  "status": "Wipe Completed Successfully",
+  "signature": "WipeX-Demo-Signature",
+  "verify_url": "https://wipex-verify.com/certificate/88e73d72-3f94-4e25-95a0-feb6037c5bda"
+}

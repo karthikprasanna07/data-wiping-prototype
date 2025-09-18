@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore node_modules
 node_modules/
 
@@ -10,3 +11,23 @@ dist/
 
 # Ignore system files
 .DS_Store
+=======
+# Node.js
+node_modules/
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+*.log
+>>>>>>> 15fe98afe125060e20d84fd54edddab4fa3fe9c9

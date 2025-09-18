@@ -1,0 +1,12 @@
+{
+  "certificate_id": "02f5cb8b-62dd-4153-8ed6-0a4800993258",
+  "timestamp": "2025-09-12 17:13:05",
+  "devices": {
+    "id": 2,
+    "name": "Disk 1 - 1TB HDD"
+  },
+  "method": "Secure Purge",
+  "status": "Wipe Completed Successfully",
+  "signature": "WipeX-Demo-Signature",
+  "verify_url": "https://wipex-verify.com/certificate/02f5cb8b-62dd-4153-8ed6-0a4800993258"
+}

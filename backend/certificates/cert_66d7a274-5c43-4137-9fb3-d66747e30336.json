@@ -1,0 +1,12 @@
+{
+  "certificate_id": "66d7a274-5c43-4137-9fb3-d66747e30336",
+  "timestamp": "2025-09-12 17:41:05",
+  "devices": {
+    "id": 1,
+    "name": "Disk 0 - 500GB SSD"
+  },
+  "method": "Secure Purge",
+  "status": "Wipe Completed Successfully",
+  "signature": "WipeX-Demo-Signature",
+  "verify_url": "https://wipex-verify.com/certificate/66d7a274-5c43-4137-9fb3-d66747e30336"
+}
