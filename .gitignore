@@ -16,3 +16,16 @@ venv/
 .DS_Store
 Thumbs.db
 *.log
+
+# Coverage / test outputs
+coverage/
+.cache/
+
+# Python virtual environment (all common names)
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Local development overrides
+*.local
