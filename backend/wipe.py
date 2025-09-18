@@ -1,7 +1,6 @@
 # wiper.py
 import os
 import random
-import time
 
 def overwrite_file(file_path, passes=3, progress_callback=None):
     """Overwrite a file multiple times with random bytes."""
@@ -14,7 +13,6 @@ def overwrite_file(file_path, passes=3, progress_callback=None):
             f.seek(0)
             for i in range(size):
                 f.write(random.randint(0, 255).to_bytes(1, "little"))
-                # update progress per byte if needed
                 if progress_callback:
                     progress_callback(((p + i/size)/passes) * 100)
             f.flush()
