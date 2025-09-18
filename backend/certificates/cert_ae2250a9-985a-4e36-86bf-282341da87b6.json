@@ -1,0 +1,12 @@
+{
+  "certificate_id": "ae2250a9-985a-4e36-86bf-282341da87b6",
+  "timestamp": "2025-09-12 17:41:06",
+  "devices": {
+    "id": 2,
+    "name": "Disk 1 - 1TB HDD"
+  },
+  "method": "Secure Purge",
+  "status": "Wipe Completed Successfully",
+  "signature": "WipeX-Demo-Signature",
+  "verify_url": "https://wipex-verify.com/certificate/ae2250a9-985a-4e36-86bf-282341da87b6"
+}

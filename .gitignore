@@ -1,16 +1,18 @@
-# Node.js dependencies
+# Node.js
 node_modules/
+build/
+dist/
 
-# Python cache & virtual env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+env/
 venv/
-
-# Certificates & generated files
-certificates/
-*.log
-
-# Build / temp files
-dist/
-build/
 *.env
+
+# OS / Misc
+.DS_Store
+Thumbs.db
+*.log
